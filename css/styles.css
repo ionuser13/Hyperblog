@@ -32,3 +32,8 @@ body {
     font-weight: normal;
     font-size: 0.8rem;
 }
+#footer {
+    text-align: center;
+    background-color: lightgrey;
+    padding: 1rem 0;
+}

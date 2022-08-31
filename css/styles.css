@@ -4,6 +4,7 @@
     padding: 0;
 }
 body {
+    background: #1e1f24;
     color: blue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -20,12 +21,16 @@ body {
     font-size: 20px;
 }
 #cabecera {
-    background: #33A;
+    background: #37488b;
     color: white;
     margin: 0;
     padding: 0.5rem;
     font-weight: bold;
-    box-shadow: 0 2px 50px 0 rgba(0,0,0,0.75);
+    box-shadow: 0 2px 20px 0 rgba(0,0,0,0.5);
+}
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
 }
 #cabecera #tagline {
     padding: 0 0 0 1rem;

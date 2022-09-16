@@ -9,7 +9,5 @@ Alguien en redes sociales
 - Buenas prácticas
 - Unos buenos trucos
 - Buenas tardes amigos
-- Inclue ejemplos en Mac
-- Disponible aqui
 
 Recordatorio: Este README.md es para **fines prácticos**. No pretende ser tomado en serio.
